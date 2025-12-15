@@ -13,5 +13,5 @@ const Navbar = () =>{
         </nav>
     )
 }
-
+// nav compo
 export default Navbar;
